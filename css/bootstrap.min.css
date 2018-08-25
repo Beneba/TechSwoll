@@ -1,0 +1,104 @@
+body
+{
+	margin-top: 7px;
+}
+.navbar-expand-md
+{
+	background: yellow;
+	color: #fff;
+	border: 0;
+}
+.navbar-expand-md .navbar-brand 
+{
+	font-size: 30px;
+	font-weight: bold;
+	color: #000;
+}
+.navbar-expand-md .navbar-collapse
+ {
+   margin-left: 420px;
+	}
+#showcase h4{
+	font-size: 30px;
+	margin-bottom: 20px;
+
+}
+#showcase img
+{
+	width: 130%;
+	margin-top: 15px;
+}
+.col-xs-6{
+	margin-left: 100px;
+	width: 50%;
+	margin-top: 30px
+}
+#testimonial{
+	background: #f1f1f1;
+	padding: 50px 0 30px 0;
+	text-align: center;
+	margin-top: 40px;
+}
+#testimonial p{
+	font-size: 22px;
+	font-family: 'arial';
+	color: #000;
+}
+#testimonial p.customer{
+	font-size: 15px;
+	color: #666;
+}
+#devlopers .developers  {
+	margin: 10px 0 0;
+	padding: 0;
+	display: flex;
+}
+#devlopers .metors
+{
+	text-align: center;
+	padding-top:15px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 30px; 
+}
+.developers ul
+{
+	display: flex;
+	margin-left: 40px;
+	padding-top: 40px;
+}
+#devlopers ul li
+{
+	list-style: none;
+	width: 150px;
+	height: 150px;
+	background: #fff;
+	border-radius: 50%;
+	overflow: hidden;
+	margin-right: 6px;
+	border: 2px solid yellow;
+
+}
+#devlopers ul li img
+{
+	width: 90%;
+	margin-left:15px; 
+
+}
+#info1 .info-right{
+	margin-top: 70px;
+}
+#info2 { 
+	margin: 20px 0 60px 0;
+}
+#contact{
+	background: url(../img/banner.jpg);
+	padding: 40px;
+	color: #fff;
+	border-top: #333 7px solid
+	border-button: #333 7px solid
+}
+footer
+{
+	padding: 30px;
+}
